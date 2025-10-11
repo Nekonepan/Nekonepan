@@ -1,52 +1,94 @@
-# Hi there! 👋 I'm Lutfan
+# 👋 Hi, I'm Lutfan (aka **Nekonepan**)
 
-I'm a beginner web developer with a strong curiosity about how the web works and how great user experiences are built. Currently, I'm exploring HTML, CSS, JavaScript, and slowly diving into frameworks like React and backend tools like PHP and MySQL.
+I'm a **friendly beginner web developer** and a **future software engineer** who loves exploring how technology works.  
+Currently diving deep into web development, backend logic, and all things tech that spark curiosity ✨  
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+</p>
 
-## 🌱 What I'm learning
-- Frontend Development
-- Git & GitHub for version control
+## 🚀 About Me
+🎯 Passionate about building simple yet meaningful web apps  
+💡 Constantly learning new tools, frameworks, and design principles  
+📚 Balancing between college projects and personal coding experiments  
+💬 Motto: *"Keep building, keep learning, keep growing."*
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+</p>
 
-## 🚀 Goals for 2025
-- Build my first full-stack web app
-- Contribute to an open-source project
-- Learn a modern frontend framework
-- Improve UI/UX skills and design sense
+## 🧠 Currently Learning
+- Frontend frameworks (React, TailwindCSS)
+- Backend development (PHP, MySQL, a bit of Python)
+- Clean code and version control using Git & GitHub
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+</p>
 
-## 🛠️ Tech Stack
+## 💼 Projects & Repositories
+Here are some of the things I've been working on lately:
+
+- **Employee Data Application** - simple CRUD-based employee management system  
+- **Formula 1 Data Application** - data-driven project exploring F1 statistics  
+- **Online Donation Application** - PHP-based donation management project  
+- **Learning Repos** - experiments and exercises in Java, Python, and JavaScript  
+- **College Repositories** - academic and practical projects
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+</p>
+
+## 💻 Programming Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white&logoSize=auto&labelColor=%23663399)
+![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white&logoSize=auto&labelColor=%23663399)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## 🧩 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white&logoSize=auto)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&logoSize=auto)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&logoSize=auto)
+![Node.JS](https://img.shields.io/badge/Node_JS-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white&logoSize=auto)
+
+## 🧰 IDEs & Code Editors
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white&logoSize=auto)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white&logoSize=auto)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat-square&logo=sublimetext&logoColor=white&logoSize=auto)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white&logoSize=auto)
+
+## 🎨 Design Tools
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
----
+## 🌐 Code and Version Control
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&logoSize=auto)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&logoSize=auto)
 
-## 💻 Code Editor
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white?style=flat-square)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white?style=flat-square)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+</p>
 
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 [![Nekonepan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nekonepan&show_icons=true&include_all_commit=true&hide_border=true&rank_icon=github&bg_color=DEG,ffcbf2,f3c4fb,ecbcfd,e5b3fe,e2afff,deaaff,d8bbff,d0d1ff,c8e7ff,c0fdff&title_color=ffffff&icon_color=000000&text_color=ffffff)](https://github.com/Nekonepan/github-readme-stats)
 
 [![Nekonepan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonepan&layout=compact&hide_border=true&bg_color=DEG,ffcbf2,f3c4fb,ecbcfd,e5b3fe,e2afff,deaaff,d8bbff,d0d1ff,c8e7ff,c0fdff&title_color=ffffff&icon_color=000000&text_color=ffffff)](https://github.com/Nekonepan/github-readme-stats)
 
-## 📫 Let's Connect!
-- Email: lutfanalaudin@gmail.com
-- Instagram: https://www.instagram.com/dableyuu
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+</p>
 
-> "Every expert was once a beginner. Keep building, keep learning."
+## 🤝 Connect With Me
+📧 **Email:** lutfanalaudin@gmail.com  
+📷 **Instagram:** [@upan.pembaik](https://www.instagram.com/upan.pembaik)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+</p>
+
+> 💬 “Every expert was once a beginner. Keep building, keep learning.”
 
 Thanks for stopping by! 😊
