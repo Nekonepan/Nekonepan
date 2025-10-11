@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Lutfan (aka **Nekonepan**)
 
-I'm a **friendly beginner web developer** and a **future software engineer** who loves exploring how technology works.  
-Currently diving deep into web development, backend logic, and all things tech that spark curiosity ✨  
+Hi! I'm Lutfan (aka **Nekonepan**) a friendly beginner web developer and future software engineer.  
+I'm passionate about web technologies and love exploring how great user experiences are built.  
+Currently balancing college projects with my journey to become a full-stack developer 🚀
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 </p>
 
 ## 🚀 About Me
-🎯 Passionate about building simple yet meaningful web apps  
-💡 Constantly learning new tools, frameworks, and design principles  
-📚 Balancing between college projects and personal coding experiments  
-💬 Motto: *"Keep building, keep learning, keep growing."*
+- 🎯 Passionate about building simple yet meaningful web apps  
+- 💡 Constantly learning new tools, frameworks, and design principles  
+- 📚 Balancing between college projects and personal coding experiments  
+- 💬 Motto: *"Keep building, keep learning, keep growing."*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
@@ -34,6 +35,7 @@ Here are some of the things I've been working on lately:
 - **Online Donation Application** - PHP-based donation management project  
 - **Learning Repos** - experiments and exercises in Java, Python, and JavaScript  
 - **College Repositories** - academic and practical projects
+- **More on my** [repositories](https://github.com/Nekonepan?tab=repositories)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
@@ -81,14 +83,21 @@ Here are some of the things I've been working on lately:
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 </p>
 
-## 🤝 Connect With Me
-📧 **Email:** lutfanalaudin@gmail.com  
-📷 **Instagram:** [@upan.pembaik](https://www.instagram.com/upan.pembaik)
+## 🌍 GitHub Activity
+![Lutfan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nekonepan&bg_color=ffffff00&color=7b68ee&line=c8e7ff&point=ffb6c1&area=true&hide_border=true)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 </p>
 
-> 💬 “Every expert was once a beginner. Keep building, keep learning.”
+## 📫 Connect With Me
+[![Email](https://img.shields.io/badge/lutfanalaudin%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:lutfanalaudin@gmail.com)
+[![Instagram](https://img.shields.io/badge/@upan.pembaik-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/upan.pembaik)
+> Click to continue to the page
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+</p>
 
 Thanks for stopping by! 😊
+> 💬 “Every expert was once a beginner. Keep building, keep learning.”
