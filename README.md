@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lutfan (aka **Nekonepan**)
 
-Hi! I'm Lutfan (aka **Nekonepan**) a friendly beginner web developer and future software engineer.  
+Hi! I'm Lutfan, a friendly beginner web developer and future software engineer.  
 I'm passionate about web technologies and love exploring how great user experiences are built.  
 Currently balancing college projects with my journey to become a full-stack developer 🚀
 
@@ -9,10 +9,10 @@ Currently balancing college projects with my journey to become a full-stack deve
 </p>
 
 ## 🚀 About Me
-- 🎯 Passionate about building simple yet meaningful web apps  
-- 💡 Constantly learning new tools, frameworks, and design principles  
-- 📚 Balancing between college projects and personal coding experiments  
-- 💬 Motto: *"Keep building, keep learning, keep growing."*
+- Passionate about building simple yet meaningful web apps  
+- Constantly learning new tools, frameworks, and design principles  
+- Balancing between college projects and personal coding experiments  
+- Motto: *"Keep building, keep learning, keep growing."*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
