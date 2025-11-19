@@ -92,7 +92,9 @@ Here are some of the things I've been working on lately:
 
 ## 📫 Connect With Me
 [![Email](https://img.shields.io/badge/lutfanalaudin%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:lutfanalaudin@gmail.com)
-[![Instagram](https://img.shields.io/badge/@upan.pembaik-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/upan.pembaik)
+<a href="https://www.instagram.com/upan.pembaik" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/@upan.pembaik-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</a>
 > Click to continue to the page
 
 <p align="center">
