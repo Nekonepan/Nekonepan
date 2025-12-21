@@ -75,6 +75,9 @@ Here are some of the things I've been working on lately:
 </p>
 
 ## 📊 GitHub Stats
+
+![Nekonepan's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nekonepan&theme=tokyonight)
+
 [![Nekonepan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nekonepan&show_icons=true&include_all_commit=true&hide_border=true&rank_icon=github&bg_color=DEG,ffcbf2,f3c4fb,ecbcfd,e5b3fe,e2afff,deaaff,d8bbff,d0d1ff,c8e7ff,c0fdff&title_color=ffffff&icon_color=000000&text_color=ffffff)](https://github.com/Nekonepan/github-readme-stats)
 
 [![Nekonepan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonepan&layout=compact&hide_border=true&bg_color=DEG,ffcbf2,f3c4fb,ecbcfd,e5b3fe,e2afff,deaaff,d8bbff,d0d1ff,c8e7ff,c0fdff&title_color=ffffff&icon_color=000000&text_color=ffffff)](https://github.com/Nekonepan/github-readme-stats)
