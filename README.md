@@ -80,11 +80,11 @@ Here are some of the things I've been working on lately:
 
 <!--[![Nekonepan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nekonepan&show_icons=true&include_all_commit=true&hide_border=true&rank_icon=github&bg_color=DEG,ffcbf2,f3c4fb,ecbcfd,e5b3fe,e2afff,deaaff,d8bbff,d0d1ff,c8e7ff,c0fdff&title_color=ffffff&icon_color=000000&text_color=ffffff)](https://github.com/Nekonepan/github-readme-stats)-->
 
-[![Nekonepan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nekonepan&show_icons=true&include_all_commit=true&hide_border=true&rank_icon=github&theme=tokyonight)](https://github.com/Nekonepan/github-readme-stats)
+[![Nekonepan's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Nekonepan&show_icons=true&include_all_commit=true&hide_border=true&rank_icon=github&theme=tokyonight)](https://github.com/Nekonepan/github-readme-stats)
 
 <!--[![Nekonepan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonepan&layout=compact&hide_border=true&bg_color=DEG,ffcbf2,f3c4fb,ecbcfd,e5b3fe,e2afff,deaaff,d8bbff,d0d1ff,c8e7ff,c0fdff&title_color=ffffff&icon_color=000000&text_color=ffffff)](https://github.com/Nekonepan/github-readme-stats)-->
 
-[![Nekonepan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonepan&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Nekonepan/github-readme-stats)
+[![Nekonepan's Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nekonepan&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Nekonepan/github-readme-stats)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
