@@ -32,7 +32,7 @@ Here are some of the things I've been working on lately:
 
 - **Employee Data Application** - simple CRUD-based employee management system
 
-  [➡️ Employee-Data-Application-Project-JavaScript-based-node.js](https://github.com/Nekonepan/Employee-Data-Application-Project-JavaScript-based-node.js-.git)
+  [➡️ Employee-Data-Application-Project-JavaScript-based-node.js](https://github.com/Nekonepan/Employee-Data-Application-Project-JavaScript-based-node.js.git)
 
 - **Laboratory Inventory Application** -  Laboratory Inventory with GUI-based application
 
