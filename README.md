@@ -30,11 +30,30 @@ Currently balancing college projects with my journey to become a full-stack deve
 ## 💼 Projects & Repositories
 Here are some of the things I've been working on lately:
 
-- **Employee Data Application** - simple CRUD-based employee management system  
-- **Formula 1 Data Application** - data-driven project exploring F1 statistics  
-- **Online Donation Application** - PHP-based donation management project  
-- **Learning Repos** - experiments and exercises in Java, Python, and JavaScript  
+- **Employee Data Application** - simple CRUD-based employee management system
+
+  [➡️ Employee-Data-Application-Project-JavaScript-based-node.js](https://github.com/Nekonepan/Employee-Data-Application-Project-JavaScript-based-node.js-.git)
+
+- **Laboratory Inventory Application** -  Laboratory Inventory with GUI-based application
+
+  [➡️ TP-PBO2025-Inventaris-Laboratorium](https://github.com/Nekonepan/TP-PBO2025-Inventaris-Laboratorium.git)
+
+- **Formula 1 Data Application** - data-driven project exploring F1 statistics
+
+   [➡️ Formula 1 Data Application](https://github.com/Nekonepan/Formula-1-Data-Application.git)
+
 - **College Repositories** - academic and practical projects
+
+  [➡️ College](https://github.com/Nekonepan/College.git)
+
+- **Learning Repositories** - experiments and exercises in Java, Python, and JavaScript
+
+  [➡️ Learning-Java](https://github.com/Nekonepan/Learning-Java.git)
+  
+  [➡️ Learning-Python](https://github.com/Nekonepan/Learning-Python.git)
+  
+  [➡️ Learning-JavaScript](https://github.com/Nekonepan/Learning-JavaScript.git)
+
 - **More on my** [repositories](https://github.com/Nekonepan?tab=repositories)
 
 <p align="center">
