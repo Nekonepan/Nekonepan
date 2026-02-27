@@ -81,6 +81,7 @@ Here are some of the things I've been working on lately:
 ![Node.JS](https://img.shields.io/badge/Node_JS-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white&logoSize=auto)
 
 ## 🧰 IDEs & Code Editors
+![VSCode](https://img.shields.io/badge/VSCode-28A6F2?style=flat-square&logoColor=white&logoSize=auto)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white&logoSize=auto)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white&logoSize=auto)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat-square&logo=sublimetext&logoColor=white&logoSize=auto)
