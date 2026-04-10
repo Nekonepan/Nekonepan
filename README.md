@@ -48,6 +48,8 @@ Here are some of the things I've been working on lately:
 
 - **Learning Repositories** - experiments and exercises in Java, Python, and JavaScript
 
+  [➡️ Learning-CPP](https://github.com/Nekonepan/Learning-CPP.git)
+
   [➡️ Learning-Java](https://github.com/Nekonepan/Learning-Java.git)
   
   [➡️ Learning-Python](https://github.com/Nekonepan/Learning-Python.git)
