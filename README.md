@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Lutfan (aka **Nekonepan**)
+# 👋 Hi, I'm Lutfan
 
-Hi! I'm Lutfan, a friendly beginner web developer and future software engineer.  
+A friendly beginner web developer and future software engineer.  
 I'm passionate about web technologies and love exploring how great user experiences are built.  
 Currently balancing college projects with my journey to become a full-stack developer 🚀
 
@@ -46,7 +46,7 @@ Here are some of the things I've been working on lately:
 
   [➡️ College](https://github.com/Nekonepan/College.git)
 
-- **Learning Repositories** - experiments and exercises in Java, Python, and JavaScript
+- **Learning Repositories** - experiments and exercises in Java, Python, C++, and JavaScript
 
   [➡️ Learning-CPP](https://github.com/Nekonepan/Learning-CPP.git)
 
@@ -63,11 +63,11 @@ Here are some of the things I've been working on lately:
 </p>
 
 ## 💻 Programming Languages
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white&logoSize=auto&labelColor=%23663399)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ## 🗃️ Databases
@@ -129,9 +129,10 @@ Here are some of the things I've been working on lately:
 </p>
 
 ## 📫 Connect With Me
+> Click me : 
 [![Email](https://img.shields.io/badge/lutfanalaudin%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:lutfanalaudin@gmail.com)
 [![Instagram](https://img.shields.io/badge/@upan.7z-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/upan.7z)
-> Click to continue to the page
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
