@@ -98,8 +98,10 @@ Here are some of the things I've been working on lately:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&logoSize=auto)
 
 ## ⚙️ Operating Systems
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white&logoSize=auto)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white&logoSize=auto)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white&logoSize=auto)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-86BE43?style=flat-square&logo=linuxmint&logoColor=white&logoSize=auto)
+![Windows](https://img.shields.io/badge/Windows-0071C8?style=flat-square&logoColor=white&logoSize=auto)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
